@@ -57,7 +57,7 @@ public class View {
         System.out.println();
 
         System.out.println(dottedLine);
-        Amount paidAmount = new Amount(50);
+        Amount paidAmount = new Amount(1500);
         System.out.println("Paid Amount: " + paidAmount);
 
         System.out.println();
